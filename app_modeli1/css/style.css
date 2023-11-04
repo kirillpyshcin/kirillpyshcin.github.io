@@ -1,0 +1,26 @@
+/*селектор {
+} */
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 5%;
+    background-color: #dab062;
+}
+
+
+text-align: justify
+
+
+h1,h2,h3
+  color: rgba(0,0,0,1;)
+  text-align:center;
+  fons-weight: 900;/* жырный текст
+  fons-style: italic;наклон текста
+  nav {
+      position: inherit;
+      left: 0;
+      top: 50px;    
+  }
+  
